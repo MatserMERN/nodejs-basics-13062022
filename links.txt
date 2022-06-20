@@ -5,3 +5,8 @@ https://www.mongodb.com/try/download/community
 To use Mongoose
 
 https://mongoosejs.com/docs/guide.html
+
+
+Issues connection to Sql 
+
+http://mytechlearning.blogspot.com/2017/08/nodejs-mssql-connectionerror-failed-to.html
